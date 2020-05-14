@@ -5,6 +5,6 @@
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "license": "MIT",
   "dependencies": {
-    "stripe": "^8.39.2"
+    "stripe": "^8.52.0"
   }
 }
