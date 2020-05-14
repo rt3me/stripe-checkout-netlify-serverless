@@ -2,4 +2,3 @@
   command = "cd functions && npm i && cd .."
   publish = "public"
   functions = "functions"
-  
